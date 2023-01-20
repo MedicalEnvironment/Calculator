@@ -1,9 +1,0 @@
-# ninja log v5
-0	347	1674127472652891412	CMakeFiles/first_project.dir/main.cpp.o	9333cd9fd089537a
-348	379	1674127472686978285	first_project	cce56ed7c80d1dcc
-3	266	1674127491525604764	CMakeFiles/first_project.dir/main.cpp.o	9333cd9fd089537a
-266	297	1674127491558880211	first_project	cce56ed7c80d1dcc
-3	263	1674127526992257372	CMakeFiles/first_project.dir/main.cpp.o	9333cd9fd089537a
-263	294	1674127527024439403	first_project	cce56ed7c80d1dcc
-3	488	1674127886438261623	CMakeFiles/first_project.dir/main.cpp.o	9333cd9fd089537a
-488	523	1674127886475984188	first_project	cce56ed7c80d1dcc
